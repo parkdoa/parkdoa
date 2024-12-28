@@ -13,7 +13,7 @@
 
 <p align="center">
   📓 blog : <a href="https://sample12.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> <br>
-  📧 Email: <a href="mailto:your_email@example.com">your_email@example.com</a><br>
+  📧 Email: <a href="mailto:your_email@example.com">sk05432@naver.com</a><br>
 </p>
 
 <br>
